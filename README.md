@@ -82,6 +82,9 @@ Neste desafio, apliquei os seguintes conhecimentos:
 ## ✍️ Autora
 
 Desenvolvido por Jossane Cardoso
+
 Graduanda em Análise e Desenvolvimento de Sistemas
+
 👩‍💻 GitHub: @J0ssan3
+
 📘 DIO: Aluna da Trilha Java 
